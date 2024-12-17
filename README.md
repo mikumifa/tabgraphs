@@ -1,5 +1,7 @@
 # TabGraphs: A Benchmark and Strong Baselines for Learning on Graphs with Tabular Node Features
 
+### NOTE! This work is in progress, and the proposed benchmark will be updated.
+
 ## About the datasets
 
 The proposed TabGraphs benchmark can be downloaded via [our Zenodo record](https://zenodo.org/records/13823102). It is necessary to put the compressed `.zip` files into the `datasets` directory. To unzip a dataset `<dataset_name>`, one can run `unzip <dataset_name>` in their terminal.
