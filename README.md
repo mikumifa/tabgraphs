@@ -4,7 +4,7 @@
 
 ## About the datasets
 
-The proposed TabGraphs benchmark can be downloaded via [our Zenodo record](https://zenodo.org/records/13823102). It is necessary to put the compressed `.zip` files into the `datasets` directory. To unzip a dataset `<dataset_name>`, one can run `unzip <dataset_name>` in their terminal.
+The proposed TabGraphs benchmark can be downloaded via [our Zenodo record](https://zenodo.org/records/14506079). It is necessary to put the compressed `.zip` files into the `datasets` directory. To unzip a dataset `<dataset_name>`, one can run `unzip <dataset_name>` in their terminal.
 
 In each dataset subfolder, we provide the following files:
 - `features.csv` — node features
